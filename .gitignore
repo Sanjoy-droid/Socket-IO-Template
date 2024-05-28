@@ -1,0 +1,11 @@
+
+# Ignore all node_modules directories in any subdirectory
+**/node_modules/
+
+
+
+
+
+.DS_Store
+.env
+*.log
